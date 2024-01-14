@@ -1,5 +1,6 @@
 # codesoft-task2
 //Student Grade Calculator
+
 import java.util.Scanner;
 
 class Grade {
